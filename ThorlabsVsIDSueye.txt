@@ -1,0 +1,15 @@
+Please wait for a site operator to respond.
+You are now chatting with 'Emily'
+Emily: Hello, thank you for contacting Thorlabs. How can I help you today?
+Thibaud Ruelle: Hi, I just received my DCC1240C CMOS camera and am starting to write code to control it. Code samples on the net seem to use either the uc480 or ueye programming interface. Can you tell me what the difference is and which one of these is a better choice ?
+Emily: Unfortunately, I am not familiar with programming for the cameras. I am very sorry about that. If you would like to describe what you would like to do I would be happy to ask in the US, where the cameras are made and let you know?
+Thibaud Ruelle: No problem. I am going to perform image processing on the images captured from the camera in python. The end goal is to automatize the alignment of an optical setup. I am planning on using python for this, and am considering which Software Development Kit to use. The obvious choice would be the uc480DotNet.dll library provided by Thorlabs. However when looking for examples on the internet, it looks like people tend to use the uEye SDK provided by IDS Imaging Development Systems GmbH, who (from my understanding) is the actual manufacturer of the DCC1240x camera purchased from Thorlabs. I would like to know the difference between these two SDKs, which one is more up to date, and which of them you would advise me to use.
+Thibaud Ruelle: It would be great if you could get an answer to this question from people in the US. Thanks !
+Emily: Thanks for the explanation. I will ask my colleagues in the US to take a look. You are correct, IDS makes the camera and we resell.
+Emily: It may take a day or two to get the answer, but I will do my best to speed things up!
+Emily: Just to be sure, can you please confirm the email address we should use to contact you is thibaud.ruelle@unibas.ch ?
+Thibaud Ruelle: So I would expect the software provided by IDS to be more up to date, and the Thorlabs one to be a wrapper or a re-implementation. But confirmation would be nice.
+Thibaud Ruelle: It is fine, yes please redirect answers to this email address.
+Thibaud Ruelle: Thank you very much for your time, have a nice day.
+Emily: I am pretty sure you are correct, since we do not do any programming with the cameras.
+Emily: Have a great day!
